@@ -5,8 +5,8 @@ import Quotes from "./components/Quotes";
 function App() {
   return (
     <>
-      <Quotes />
-      {/* <GetData /> */}
+      {/* <Quotes /> */}
+      <GetData />
       {/* <AddData /> */}
     </>
   );
